@@ -147,7 +147,7 @@ footer li::before {
     width: 5px;
     height: 5px;
     border-radius: 50%;
-    margin-right: 5px;
+    margin-right: 5px; 
 }
 footer li:nth-of-type(1)::before {
     background: #3b5998;
